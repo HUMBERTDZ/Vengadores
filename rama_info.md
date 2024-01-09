@@ -1,1 +1,2 @@
-Hola, mi nombre es Beto, este es un ejemplo de como subir una rama
+>[!IMPORTANT]
+> Este es un ejemplo de como se está trabajando en ramas de versiones
