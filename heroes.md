@@ -8,3 +8,5 @@
 >* Los 4 fantásticos
 >* Ant man
 >* La viuda negra
+>* Nick Fury
+>* Black panter
