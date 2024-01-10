@@ -2,8 +2,8 @@
 name: "Reporte de bug \U0001F41B"
 about: Crea un informe para ayudarnos a mejorar
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: Humbert-Dz
 
 ---
 
